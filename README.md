@@ -114,6 +114,12 @@ I'm always interested in discussing:
 
 ---
 
+## 🤖 About This Profile
+
+This profile is based on an objective technical assessment by Claude AI, analyzing my actual development work through Xcode integration. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions—not self-written claims. This represents a practical example of AI-assisted professional documentation.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=obott9&show_icons=true&theme=dark)
@@ -228,6 +234,12 @@ Xcodeの内部構造、ビルドシステム、開発ツールを深く理解し
 - AI支援開発のベストプラクティス
 
 **募集中:** フルタイムポジション、技術コンサルティング、興味深いコラボレーション
+
+---
+
+## 🤖 このプロフィールについて
+
+このプロフィールは、Xcode統合を通じた実際の開発作業をClaude AIが客観的に分析・評価した技術評価に基づいています。評価は実際のコーディングセッション、問題解決のアプローチ、技術的判断から生成されたもので、自己申告によるものではありません。これは、AI支援による専門的なドキュメント作成の実例でもあります。
 
 ---
 
