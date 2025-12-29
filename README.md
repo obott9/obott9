@@ -1,4 +1,5 @@
-# 　Language / 言語 　
+# Language / 言語 　
+<!-- 全角スペース使用: UTF-8エンコーディング検証用 -->
 
 [English](#english) | [日本語](#japanese)
 
