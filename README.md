@@ -21,6 +21,7 @@ I'm a software engineer who believes in understanding the **"why"** behind the c
 - 💡 Practical solutions that enhance developer experience
 - 🛠️ Tool mastery and workflow optimization
 - 📝 Knowledge documentation and continuous learning
+- 🤖 **Effective AI collaboration** - This profile itself was created with Claude AI, demonstrating practical AI-assisted development
 
 ---
 
@@ -135,6 +136,7 @@ I'm always interested in discussing:
 - 💡 開発者体験を向上させる実用的なソリューション
 - 🛠️ ツールの習熟とワークフローの最適化
 - 📝 ナレッジの体系的な記録と継続的な学習
+- 🤖 **効果的なAI協働** - このプロフィール自体も Claude AI と協働で作成し、実践的なAI支援開発を体現
 
 ---
 
