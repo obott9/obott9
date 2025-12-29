@@ -1,4 +1,4 @@
-# Language / 言語 　
+# 　Language / 言語 　
 <!-- 全角スペース使用: UTF-8エンコーディング検証用 -->
 
 [English](#english) | [日本語](#japanese)
@@ -100,6 +100,8 @@ I believe the best engineers are those who:
 ---
 
 ## 📫 Let's Connect
+
+📧 **Email**: obott9.dev [at] gmail [dot] com
 
 I'm always interested in discussing:
 - iOS/macOS development challenges
@@ -214,6 +216,8 @@ Xcodeの内部構造、ビルドシステム、開発ツールを深く理解し
 ---
 
 ## 📫 連絡先
+
+📧 **メール**: obott9.dev [at] gmail [dot] com
 
 以下のトピックについて、いつでもディスカッション歓迎です:
 - iOS/macOS開発の課題
