@@ -122,7 +122,8 @@ This profile is based on an objective technical assessment by Claude AI, analyzi
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=obott9&show_icons=true&theme=dark)
+![Profile Details](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/0-profile-details.svg)
+![Languages](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/1-repos-per-language.svg)
 
 ---
 
@@ -245,7 +246,8 @@ Xcodeの内部構造、ビルドシステム、開発ツールを深く理解し
 
 ## 📊 GitHub統計
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=obott9&show_icons=true&theme=dark)
+![Profile Details](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/0-profile-details.svg)
+![Languages](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/1-repos-per-language.svg)
 
 ---
 
