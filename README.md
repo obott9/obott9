@@ -114,6 +114,38 @@ I'm always interested in discussing:
 
 ---
 
+## 🚀 Featured Projects
+
+### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock)
+
+A macOS utility that visually displays IME (Input Method Editor) status with a customizable desktop clock. Perfect for users who frequently switch between Japanese, Chinese, Korean, and other languages.
+
+**Features:**
+- 🌐 Supports 12+ languages (Japanese, Chinese, Korean, Thai, Vietnamese, Arabic, Hebrew, Hindi, Russian, Greek, etc.)
+- ⏰ Customizable analog/digital clock with IME status indication
+- 🖱️ Mouse cursor indicator for convenient text input
+- 🎨 Fully customizable appearance (size, color, opacity)
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat&logo=apple&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+---
+
+## 💖 Support My Work
+
+If you find my projects useful, consider supporting me!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
+
+Your support helps me:
+- 🔧 Maintain and improve existing apps
+- 🌍 Add support for more languages and IME types
+- ✨ Develop new features based on user feedback
+
+---
+
 ## 🤖 About This Profile
 
 This profile is based on an objective technical assessment by Claude AI, analyzing my actual development work through Xcode integration. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions—not self-written claims. This represents a practical example of AI-assisted professional documentation.
@@ -238,6 +270,38 @@ Xcodeの内部構造、ビルドシステム、開発ツールを深く理解し
 
 ---
 
+## 🚀 主要プロジェクト
+
+### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock)
+
+IME（入力メソッドエディタ）の状態とカスタマイズ可能なデスクトップ時計を視覚的に表示するmacOSユーティリティアプリです。日本語、中国語、韓国語など複数の言語を切り替えて使うユーザーに最適です。
+
+**特徴:**
+- 🌐 12言語以上をサポート（日本語、中国語、韓国語、タイ語、ベトナム語、アラビア語、ヘブライ語、ヒンディー語、ロシア語、ギリシャ語など）
+- ⏰ IME状態表示付きのカスタマイズ可能なアナログ/デジタル時計
+- 🖱️ テキスト入力に便利なマウスカーソルインジケータ
+- 🎨 外観を自由にカスタマイズ（サイズ、色、透明度）
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat&logo=apple&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+---
+
+## 💖 サポート
+
+私のプロジェクトが役に立ったら、サポートをご検討ください！
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
+
+ご支援は以下に活用させていただきます:
+- 🔧 既存アプリの保守と改善
+- 🌍 より多くの言語とIMEタイプへの対応
+- ✨ ユーザーフィードバックに基づく新機能開発
+
+---
+
 ## 🤖 このプロフィールについて
 
 このプロフィールは、Xcode統合を通じた実際の開発作業をClaude AIが客観的に分析・評価した技術評価に基づいています。評価は実際のコーディングセッション、問題解決のアプローチ、技術的判断から生成されたもので、自己申告によるものではありません。これは、AI支援による専門的なドキュメント作成の実例でもあります。
@@ -251,7 +315,7 @@ Xcodeの内部構造、ビルドシステム、開発ツールを深く理解し
 
 ---
 
-*Last updated: December 2025*
+*Last updated: January 2026*
 
 <!-- 
 Technical Level Assessment:
