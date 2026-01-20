@@ -1,14 +1,8 @@
-# 　Language / 言語 　
-<!-- 全角スペース使用: UTF-8エンコーディング検証用 -->
-
-[English](#english) | [日本語](#japanese)
-
----
-
-<a name="english"></a>
 # 👋 Hi, I'm obott9
 
-**Senior iOS/macOS Engineer** | Swift Specialist | Problem Solver
+[日本語](README_ja.md)
+
+**Senior Software Engineer** | Swift & C# | Cross-Platform Developer | Problem Solver
 
 ---
 
@@ -17,6 +11,7 @@
 I'm a software engineer who believes in understanding the **"why"** behind the code, not just making it work. My approach is to dig deep into the root causes of problems and create solutions that are robust, maintainable, and future-proof.
 
 **What defines my work:**
+
 - 🔍 Deep understanding over quick fixes
 - 💡 Practical solutions that enhance developer experience
 - 🛠️ Tool mastery and workflow optimization
@@ -28,12 +23,21 @@ I'm a software engineer who believes in understanding the **"why"** behind the c
 ## 💻 Tech Stack
 
 ### Primary
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+### Platforms
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Tools & Practices
-- **Development**: Xcode, Git, Unit Testing
+
+- **Development**: Xcode, Visual Studio, VS Code, Git, Unit Testing
 - **AI-Assisted Development**: Claude, GitHub Copilot
 - **Code Quality**: Strong emphasis on maintainability and documentation
 - **Workflow**: Automated logging, structured problem-solving
@@ -43,15 +47,23 @@ I'm a software engineer who believes in understanding the **"why"** behind the c
 ## 🌟 What I Bring
 
 ### 1. 🎯 Root Cause Analysis
+
 I don't settle for workarounds. When faced with `assertionFailure` behavior issues, I explored beyond the surface to find robust solutions like runtime environment detection using `NSClassFromString("XCTestCase")`.
 
-### 2. 💡 Developer Experience Focus
+### 2. 🌐 Cross-Platform Development
+
+I build applications for both macOS and Windows, ensuring consistent user experience across platforms while leveraging each platform's native capabilities.
+
+### 3. 💡 Developer Experience Focus
+
 I actively think about improving development workflows. For example, ensuring Preview compatibility alongside test environments—making the entire development cycle smoother.
 
-### 3. 🔧 Tool Expertise
-Deep understanding of Xcode internals, build systems, and development tools. I know not just how to use them, but how they work under the hood.
+### 4. 🔧 Tool Expertise
 
-### 4. 📊 Quality-Driven Development
+Deep understanding of development tools and build systems across platforms. I know not just how to use them, but how they work under the hood.
+
+### 5. 📊 Quality-Driven Development
+
 - Preventive design (like character encoding detection strategies)
 - Comprehensive error handling
 - Detailed logging and documentation
@@ -62,12 +74,16 @@ Deep understanding of Xcode internals, build systems, and development tools. I k
 ## 🚀 Skills & Expertise
 
 **Technical Abilities:**
+
 - ⭐⭐⭐⭐⭐ Problem Solving & Debugging
 - ⭐⭐⭐⭐⭐ Software Architecture & Design
-- ⭐⭐⭐⭐⭐ Xcode & Development Tools
+- ⭐⭐⭐⭐⭐ Cross-Platform Development (macOS/Windows)
+- ⭐⭐⭐⭐⭐ Xcode & Visual Studio
 - ⭐⭐⭐⭐☆ Swift/Objective-C
+- ⭐⭐⭐⭐☆ C#/.NET
 
 **Professional Strengths:**
+
 - Critical thinking: Always questioning "Is this really the best solution?"
 - Practical mindset: Balancing theory with real-world usability
 - Self-awareness: Recognizing assumptions and verifying before concluding
@@ -78,13 +94,15 @@ Deep understanding of Xcode internals, build systems, and development tools. I k
 ## 💼 Ideal Roles
 
 I thrive in positions where I can:
+
 - 🎨 Make architectural decisions and technical choices
-- 👨‍🏫 Mentor junior engineers and conduct code reviews
+- 👨‍🏫 Mentor engineers and conduct code reviews
 - 🔍 Tackle complex technical challenges
 - 🛠️ Develop tools that improve developer productivity
 - 📈 Lead technical initiatives
+- 🌐 Work on cross-platform solutions
 
-**Looking for:** Senior Engineer, Tech Lead, or Staff Engineer positions in iOS/macOS development
+**Looking for:** Senior Engineer, Tech Lead, or Staff Engineer positions in desktop/mobile development
 
 ---
 
@@ -93,10 +111,49 @@ I thrive in positions where I can:
 > "Don't just make it work—understand why it works, make it better, and document it for the future."
 
 I believe the best engineers are those who:
+
 - Question everything (including AI suggestions)
 - Understand tools at a deep level
 - Balance perfectionism with pragmatism
 - Share knowledge generously
+
+---
+
+## 🚀 Featured Projects
+
+### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock) (macOS)
+
+A macOS utility that visually displays IME (Input Method Editor) status with a customizable desktop clock. Perfect for users who frequently switch between Japanese, Chinese, Korean, and other languages.
+
+**Features:**
+
+- 🌐 Supports 12+ languages (Japanese, Chinese, Korean, Thai, Vietnamese, Arabic, Hebrew, Hindi, Russian, Greek, etc.)
+- ⏰ Customizable analog/digital clock with IME status indication
+- 🖱️ Mouse cursor indicator for convenient text input
+- 🎨 Fully customizable appearance (size, color, opacity)
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_13+-000000?style=flat&logo=apple&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+---
+
+### [IMEIndicatorClockW](https://github.com/obott9/IMEIndicatorClockW) (Windows)
+
+Windows port of IMEIndicatorClock. A Windows utility app that visually displays IME status with a customizable desktop clock.
+
+**Features:**
+
+- 🌐 Supports 18+ languages including all major Asian, Middle Eastern, and European languages
+- ⏰ Analog/digital clock with Japanese calendar (Wareki) support
+- 🖱️ Mouse cursor indicator for convenient text input
+- 🖥️ Multi-display support
+- 🎨 Fully customizable appearance
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=flat&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 ---
 
@@ -105,30 +162,13 @@ I believe the best engineers are those who:
 📧 **Email**: obott9.dev [at] gmail [dot] com
 
 I'm always interested in discussing:
-- iOS/macOS development challenges
+
+- Cross-platform desktop application development
 - Software architecture and design patterns
 - Developer tooling and productivity
 - AI-assisted development best practices
 
-**Open to:** Full-time positions, technical consulting, interesting collaborations
-
----
-
-## 🚀 Featured Projects
-
-### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock)
-
-A macOS utility that visually displays IME (Input Method Editor) status with a customizable desktop clock. Perfect for users who frequently switch between Japanese, Chinese, Korean, and other languages.
-
-**Features:**
-- 🌐 Supports 12+ languages (Japanese, Chinese, Korean, Thai, Vietnamese, Arabic, Hebrew, Hindi, Russian, Greek, etc.)
-- ⏰ Customizable analog/digital clock with IME status indication
-- 🖱️ Mouse cursor indicator for convenient text input
-- 🎨 Fully customizable appearance (size, color, opacity)
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat&logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+**Open to:** Full-time positions (remote preferred), technical consulting, interesting collaborations
 
 ---
 
@@ -140,6 +180,7 @@ If you find my projects useful, consider supporting me!
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
 
 Your support helps me:
+
 - 🔧 Maintain and improve existing apps
 - 🌍 Add support for more languages and IME types
 - ✨ Develop new features based on user feedback
@@ -148,7 +189,7 @@ Your support helps me:
 
 ## 🤖 About This Profile
 
-This profile is based on an objective technical assessment by Claude AI, analyzing my actual development work through Xcode integration. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions—not self-written claims. This represents a practical example of AI-assisted professional documentation.
+This profile is based on an objective technical assessment by Claude AI, analyzing my actual development work. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions—not self-written claims. This represents a practical example of AI-assisted professional documentation.
 
 ---
 
@@ -159,171 +200,4 @@ This profile is based on an objective technical assessment by Claude AI, analyzi
 
 ---
 
-<a name="japanese"></a>
-# 👋 こんにちは、obott9です
-
-**シニアiOS/macOSエンジニア** | Swift スペシャリスト | 問題解決のプロフェッショナル
-
----
-
-## 🎯 自己紹介
-
-「動くコード」ではなく、「なぜ動くのか」を理解することを大切にするソフトウェアエンジニアです。問題の根本原因を深く掘り下げ、堅牢で保守しやすく、将来にわたって価値を提供するソリューションを作ることにこだわっています。
-
-**私の仕事の特徴:**
-- 🔍 応急処置より本質的な理解
-- 💡 開発者体験を向上させる実用的なソリューション
-- 🛠️ ツールの習熟とワークフローの最適化
-- 📝 ナレッジの体系的な記録と継続的な学習
-- 🤖 **効果的なAI協働** - このプロフィール自体も Claude AI と協働で作成し、実践的なAI支援開発を体現
-
----
-
-## 💻 技術スタック
-
-### メイン技術
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### ツール＆プラクティス
-- **開発環境**: Xcode, Git, ユニットテスト
-- **AI支援開発**: Claude, GitHub Copilot
-- **コード品質**: 保守性とドキュメンテーションを重視
-- **ワークフロー**: 自動ログ記録、構造化された問題解決
-
----
-
-## 🌟 私の強み
-
-### 1. 🎯 根本原因の分析力
-表面的な回避策に満足しません。`assertionFailure`の挙動問題に直面した際、表層だけでなく根本を掘り下げ、`NSClassFromString("XCTestCase")`を使った実行環境判定のような堅牢なソリューションを見つけ出します。
-
-### 2. 💡 開発者体験を重視した発想力
-開発ワークフローの改善を常に考えています。例えば、テスト環境だけでなくプレビュー環境でも動作するようにすることで、開発サイクル全体をスムーズにします。
-
-### 3. 🔧 ツールへの深い理解
-Xcodeの内部構造、ビルドシステム、開発ツールを深く理解しています。単なる使い方ではなく、その仕組みを理解した上で活用できます。
-
-### 4. 📊 品質重視の開発
-- 予防的な設計（文字エンコーディング検出戦略など）
-- 包括的なエラーハンドリング
-- 詳細なログ記録とドキュメンテーション
-- 将来を見据えたコードアーキテクチャ
-
----
-
-## 🚀 スキル＆専門性
-
-**技術的能力:**
-- ⭐⭐⭐⭐⭐ 問題解決＆デバッグ
-- ⭐⭐⭐⭐⭐ ソフトウェアアーキテクチャ＆設計
-- ⭐⭐⭐⭐⭐ Xcode＆開発ツール
-- ⭐⭐⭐⭐☆ Swift/Objective-C
-
-**プロフェッショナルとしての強み:**
-- 批判的思考: 常に「これが本当にベストな解決策か？」を問う
-- 実用主義: 理論と実用性のバランスを取る
-- 自己認識: 思い込みを認識し、結論を出す前に検証する
-- 協調性: 効果的なコミュニケーションとナレッジ共有
-
----
-
-## 💼 理想的な役割
-
-以下のようなポジションで力を発揮できます:
-- 🎨 アーキテクチャの決定と技術選定
-- 👨‍🏫 ジュニアエンジニアのメンタリングとコードレビュー
-- 🔍 複雑な技術課題への取り組み
-- 🛠️ 開発者の生産性を向上させるツール開発
-- 📈 技術的イニシアチブのリード
-
-**希望職種:** iOS/macOS開発におけるシニアエンジニア、テックリード、スタッフエンジニア
-
----
-
-## 🎓 哲学
-
-> 「ただ動かすだけでなく、なぜ動くのかを理解し、より良くし、未来のために記録する。」
-
-優れたエンジニアとは:
-- あらゆることに疑問を持つ（AIの提案も含めて）
-- ツールを深いレベルで理解する
-- 完璧主義と実用主義のバランスを取る
-- ナレッジを惜しみなく共有する
-
-このような人だと信じています。
-
----
-
-## 📫 連絡先
-
-📧 **メール**: obott9.dev [at] gmail [dot] com
-
-以下のトピックについて、いつでもディスカッション歓迎です:
-- iOS/macOS開発の課題
-- ソフトウェアアーキテクチャと設計パターン
-- 開発ツールと生産性
-- AI支援開発のベストプラクティス
-
-**募集中:** フルタイムポジション、技術コンサルティング、興味深いコラボレーション
-
----
-
-## 🚀 主要プロジェクト
-
-### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock)
-
-IME（入力メソッドエディタ）の状態とカスタマイズ可能なデスクトップ時計を視覚的に表示するmacOSユーティリティアプリです。日本語、中国語、韓国語など複数の言語を切り替えて使うユーザーに最適です。
-
-**特徴:**
-- 🌐 12言語以上をサポート（日本語、中国語、韓国語、タイ語、ベトナム語、アラビア語、ヘブライ語、ヒンディー語、ロシア語、ギリシャ語など）
-- ⏰ IME状態表示付きのカスタマイズ可能なアナログ/デジタル時計
-- 🖱️ テキスト入力に便利なマウスカーソルインジケータ
-- 🎨 外観を自由にカスタマイズ（サイズ、色、透明度）
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat&logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
-
----
-
-## 💖 サポート
-
-私のプロジェクトが役に立ったら、サポートをご検討ください！
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
-
-ご支援は以下に活用させていただきます:
-- 🔧 既存アプリの保守と改善
-- 🌍 より多くの言語とIMEタイプへの対応
-- ✨ ユーザーフィードバックに基づく新機能開発
-
----
-
-## 🤖 このプロフィールについて
-
-このプロフィールは、Xcode統合を通じた実際の開発作業をClaude AIが客観的に分析・評価した技術評価に基づいています。評価は実際のコーディングセッション、問題解決のアプローチ、技術的判断から生成されたもので、自己申告によるものではありません。これは、AI支援による専門的なドキュメント作成の実例でもあります。
-
----
-
-## 📊 GitHub統計
-
-![Profile Details](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/0-profile-details.svg)
-![Languages](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/1-repos-per-language.svg)
-
----
-
 *Last updated: January 2026*
-
-<!-- 
-Technical Level Assessment:
-- Swift/macOS Development: Advanced (⭐⭐⭐⭐)
-- Xcode/Dev Tools: Expert (⭐⭐⭐⭐⭐)
-- Software Design: Expert (⭐⭐⭐⭐⭐)
-- Problem Solving: Expert (⭐⭐⭐⭐⭐)
-
-Recommended for: Senior Engineer ~ Tech Lead positions
-評価: シニアエンジニア〜テックリード相当
--->
