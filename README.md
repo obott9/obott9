@@ -6,7 +6,15 @@
 
 ---
 
-## 🎯 About Me
+## 📄 About Me
+
+- 🌐 [Portfolio & Resume](https://obott9.github.io)
+- 📝 [Personal Statement](https://obott9.github.io/statement.html)
+- 💼 [Download Resume (PDF)](https://obott9.github.io/Hideki_Obote_Resume_EN.pdf)
+
+---
+
+## 🎯 Who I Am
 
 I'm a software engineer who believes in understanding the **"why"** behind the code, not just making it work. My approach is to dig deep into the root causes of problems and create solutions that are robust, maintainable, and future-proof.
 
@@ -103,6 +111,27 @@ I thrive in positions where I can:
 - 🌐 Work on cross-platform solutions
 
 **Looking for:** Senior Engineer, Tech Lead, or Staff Engineer positions in desktop/mobile development
+
+---
+
+## 🌍 Work Preferences
+
+Due to personal circumstances in Japan, I am exclusively seeking remote work opportunities with international companies.
+
+- 📝 **Communication:** Written English only (Slack, email, GitHub)
+- 🚫 No voice/video calls — I deliver through clear documentation and code
+- 🌐 Open to worldwide remote opportunities
+- ✅ Available for contract or contract-to-hire
+
+---
+
+## 💰 Why Hire Me?
+
+I communicate through written English only — no voice calls. To prove I deliver quality work through text-based collaboration, I offer competitive rates.
+
+With the current weak Japanese Yen, you get **senior-level expertise (35+ years)** at a fraction of typical US/EU rates.
+
+📩 Contact: obott9.dev@gmail.com
 
 ---
 
