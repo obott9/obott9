@@ -188,7 +188,7 @@ Windows port of IMEIndicatorClock. A Windows utility app that visually displays 
 
 ## 📫 Let's Connect
 
-📧 **Email**: obott9.dev [at] gmail [dot] com
+📧 **Email**: obott9.dev@gmail.com
 
 I'm always interested in discussing:
 
