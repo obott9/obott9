@@ -1,5 +1,7 @@
 # Hi, I'm Hideki Obote 👋
 
+[日本語](README_ja.md)
+
 > 🔍 **Currently open to remote opportunities** (contract / full-time)  
 > 📝 Written English communication only — I deliver through clear documentation and code
 
