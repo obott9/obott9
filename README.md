@@ -1,232 +1,125 @@
-# 👋 Hi, I'm obott9
+# Hi, I'm Hideki Obote 👋
 
-[日本語](README_ja.md)
+> 🔍 **Currently open to remote opportunities** (contract / full-time)  
+> 📝 Written English communication only — I deliver through clear documentation and code
 
-**Senior Software Engineer** | Swift & C# | Cross-Platform Developer | Problem Solver
+## TL;DR
 
----
-
-## 📄 About Me
-
-- 🌐 [Portfolio & Resume](https://obott9.github.io)
-- 📝 [Personal Statement](https://obott9.github.io/statement.html)
-- 💼 [Download Resume (PDF)](https://obott9.github.io/Hideki_Obote_Resume_EN.pdf)
+**35+ years** of software development experience | **Self-taught** since the Sharp X68000 era | Specialist in **cross-platform desktop apps** (Swift for macOS, C# for Windows) | Proven track record of **rescuing failing projects** and **reducing maintenance costs by 50%+**
 
 ---
 
-## 🎯 Who I Am
+## 🎯 What I Bring to Your Team
 
-I'm a software engineer who believes in understanding the **"why"** behind the code, not just making it work. My approach is to dig deep into the root causes of problems and create solutions that are robust, maintainable, and future-proof.
-
-**What defines my work:**
-
-- 🔍 Deep understanding over quick fixes
-- 💡 Practical solutions that enhance developer experience
-- 🛠️ Tool mastery and workflow optimization
-- 📝 Knowledge documentation and continuous learning
-- 🤖 **Effective AI collaboration** - This profile itself was created with Claude AI, demonstrating practical AI-assisted development
+| What You Get | Evidence |
+|--------------|----------|
+| **Senior-level expertise** | 35+ years hands-on coding, not just managing |
+| **Cross-platform skills** | Native apps for both macOS and Windows |
+| **Problem solver** | Exposed root causes on 3 different "impossible" legacy projects |
+| **Self-directed** | Built entire career through self-learning, no CS degree needed |
+| **Cost-effective** | Competitive rates due to weak Japanese Yen |
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects (with Results)
 
-### Primary
+### IMEIndicatorClock (macOS)
+**Problem:** macOS users struggle to identify current input method at a glance, causing frequent typing errors when switching between Japanese and English.
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+**Solution:** Built a menu bar app displaying IME status with visual clock indicator.
 
-### Platforms
+**Results:**
+- ✅ Supports **18+ languages**
+- ✅ Distributed via **MacUpdate, Vector, 窓の杜**
+- ✅ **Zero dependencies** — pure Swift/SwiftUI
 
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Tools & Practices
-
-- **Development**: Xcode, Visual Studio, VS Code, Git, Unit Testing
-- **AI-Assisted Development**: Claude, GitHub Copilot
-- **Code Quality**: Strong emphasis on maintainability and documentation
-- **Workflow**: Automated logging, structured problem-solving
+🔗 [View Repository](https://github.com/obott9/IMEIndicatorClock)
 
 ---
 
-## 🌟 What I Bring
+### IMEIndicatorClockW (Windows)
+**Problem:** Windows users needed the same IME visibility solution.
 
-### 1. 🎯 Root Cause Analysis
+**Solution:** Rebuilt the concept in C#/.NET 8 with Windows-native UI.
 
-I don't settle for workarounds. When faced with `assertionFailure` behavior issues, I explored beyond the surface to find robust solutions like runtime environment detection using `NSClassFromString("XCTestCase")`.
+**Results:**
+- ✅ Feature parity with macOS version
+- ✅ Demonstrates **true cross-platform capability**
+- ✅ Clean MVVM architecture
 
-### 2. 🌐 Cross-Platform Development
-
-I build applications for both macOS and Windows, ensuring consistent user experience across platforms while leveraging each platform's native capabilities.
-
-### 3. 💡 Developer Experience Focus
-
-I actively think about improving development workflows. For example, ensuring Preview compatibility alongside test environments—making the entire development cycle smoother.
-
-### 4. 🔧 Tool Expertise
-
-Deep understanding of development tools and build systems across platforms. I know not just how to use them, but how they work under the hood.
-
-### 5. 📊 Quality-Driven Development
-
-- Preventive design (like character encoding detection strategies)
-- Comprehensive error handling
-- Detailed logging and documentation
-- Future-proof code architecture
+🔗 [View Repository](https://github.com/obott9/IMEIndicatorClockW)
 
 ---
 
-## 🚀 Skills & Expertise
+## 💼 Professional Impact (Selected)
 
-**Technical Abilities:**
+### Enterprise Power Company — Payment System (2024-2025)
+**Challenge:** Legacy payment system couldn't scale for new requirements.  
+**My Role:** System Engineer, team of 30 developers.  
+**Result:** Successfully delivered pilot ahead of schedule.
 
-- ⭐⭐⭐⭐⭐ Problem Solving & Debugging
-- ⭐⭐⭐⭐⭐ Software Architecture & Design
-- ⭐⭐⭐⭐⭐ Cross-Platform Development (macOS/Windows)
-- ⭐⭐⭐⭐⭐ Xcode & Visual Studio
-- ⭐⭐⭐⭐☆ Swift/Objective-C
-- ⭐⭐⭐⭐☆ C#/.NET
+### Legal Database — Mobile Apps (2006-2020)
+**Challenge:** Migrate legal search system across 3 generations of mobile platforms.  
+**My Role:** Sole developer for iOS/Android migration.  
+**Result:** **14 years** of continuous operation, survived flip phones → smartphones transition.
 
-**Professional Strengths:**
-
-- Critical thinking: Always questioning "Is this really the best solution?"
-- Practical mindset: Balancing theory with real-world usability
-- Self-awareness: Recognizing assumptions and verifying before concluding
-- Collaborative: Effective communication and knowledge sharing
+### Automotive — ABS Test Systems (1989-1990)
+**Challenge:** Manual testing of ABS hydraulic units was slow and error-prone.  
+**My Role:** Designed and built automated test equipment.  
+**Result:** **Reduced testing time by 60%**, improved accuracy.
 
 ---
 
-## 💼 Ideal Roles
+## 🛠 Technical Skills
 
-I thrive in positions where I can:
+**Languages:** C, C++, C#, Swift, Objective-C, Java, Assembly  
+**Platforms:** macOS, Windows, iOS, Android, Linux, MS-DOS  
+**Frameworks:** .NET 8, SwiftUI, WinForms, WPF  
+**Specialties:** Desktop apps, Embedded systems, Legacy system rescue, Serial communication (RS232C)
 
-- 🎨 Make architectural decisions and technical choices
-- 👨‍🏫 Mentor engineers and conduct code reviews
-- 🔍 Tackle complex technical challenges
-- 🛠️ Develop tools that improve developer productivity
-- 📈 Lead technical initiatives
-- 🌐 Work on cross-platform solutions
+---
 
-**Looking for:** Senior Engineer, Tech Lead, or Staff Engineer positions in desktop/mobile development
+## 📄 Resources
+
+| Document | Description |
+|----------|-------------|
+| 🌐 [Portfolio](https://obott9.github.io) | Full portfolio with detailed case studies |
+| 📝 [Personal Statement](https://obott9.github.io/statement.html) | Why I'm seeking international remote work |
+| 💼 [Resume (PDF)](https://obott9.github.io/Hideki_Obote_Resume_EN.pdf) | Downloadable resume |
 
 ---
 
 ## 🌍 Work Preferences
 
-Due to personal circumstances in Japan, I am exclusively seeking remote work opportunities with international companies.
+Due to personal circumstances in Japan, I am **exclusively seeking remote work** with international companies.
 
-- 📝 **Communication:** Written English only (Slack, email, GitHub)
-- 🚫 No voice/video calls — I deliver through clear documentation and code
-- 🌐 Open to worldwide remote opportunities
-- ✅ Available for contract or contract-to-hire
+| Preference | Detail |
+|------------|--------|
+| 📝 Communication | Written English only (Slack, email, GitHub) |
+| 🚫 No voice/video | I deliver through documentation and code |
+| 🌐 Location | Remote worldwide |
+| 📋 Contract type | Contract or contract-to-hire |
 
 ---
 
 ## 💰 Why Hire Me?
 
-I communicate through written English only — no voice calls. To prove I deliver quality work through text-based collaboration, I offer competitive rates.
+I communicate through **written English only** — no voice calls. To prove I deliver quality work through text-based collaboration, I offer **competitive rates**.
 
-With the current weak Japanese Yen, you get **senior-level expertise (35+ years)** at a fraction of typical US/EU rates.
-
-📩 Contact: obott9.dev@gmail.com
-
----
-
-## 🎓 Philosophy
-
-> "Don't just make it work—understand why it works, make it better, and document it for the future."
-
-I believe the best engineers are those who:
-
-- Question everything (including AI suggestions)
-- Understand tools at a deep level
-- Balance perfectionism with pragmatism
-- Share knowledge generously
+With the current **weak Japanese Yen**, you get:
+- ✅ **Senior-level expertise (35+ years)**
+- ✅ **At a fraction of typical US/EU rates**
 
 ---
 
-## 🚀 Featured Projects
+## 📬 Contact
 
-### [IMEIndicatorClock](https://github.com/obott9/IMEIndicatorClock) (macOS)
-
-A macOS utility that visually displays IME (Input Method Editor) status with a customizable desktop clock. Perfect for users who frequently switch between Japanese, Chinese, Korean, and other languages.
-
-**Features:**
-
-- 🌐 Supports 12+ languages (Japanese, Chinese, Korean, Thai, Vietnamese, Arabic, Hebrew, Hindi, Russian, Greek, etc.)
-- ⏰ Customizable analog/digital clock with IME status indication
-- 🖱️ Mouse cursor indicator for convenient text input
-- 🎨 Fully customizable appearance (size, color, opacity)
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS_13+-000000?style=flat&logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+📩 **Email:** obott9.dev@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/hideki-obote](https://www.linkedin.com/in/hideki-obote-1b33b43a7/)  
+🔧 **Upwork:** [upwork.com/freelancers/~0146733eaa54bd44c8](https://www.upwork.com/freelancers/~0146733eaa54bd44c8)
 
 ---
 
-### [IMEIndicatorClockW](https://github.com/obott9/IMEIndicatorClockW) (Windows)
-
-Windows port of IMEIndicatorClock. A Windows utility app that visually displays IME status with a customizable desktop clock.
-
-**Features:**
-
-- 🌐 Supports 18+ languages including all major Asian, Middle Eastern, and European languages
-- ⏰ Analog/digital clock with Japanese calendar (Wareki) support
-- 🖱️ Mouse cursor indicator for convenient text input
-- 🖥️ Multi-display support
-- 🎨 Fully customizable appearance
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=flat&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
-
----
-
-## 📫 Let's Connect
-
-📧 **Email**: obott9.dev@gmail.com
-
-I'm always interested in discussing:
-
-- Cross-platform desktop application development
-- Software architecture and design patterns
-- Developer tooling and productivity
-- AI-assisted development best practices
-
-**Open to:** Full-time positions (remote preferred), technical consulting, interesting collaborations
-
----
-
-## 💖 Support My Work
-
-If you find my projects useful, consider supporting me!
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
-
-Your support helps me:
-
-- 🔧 Maintain and improve existing apps
-- 🌍 Add support for more languages and IME types
-- ✨ Develop new features based on user feedback
-
----
-
-## 🤖 About This Profile
-
-This profile is based on an objective technical assessment by Claude AI, analyzing my actual development work. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions—not self-written claims. This represents a practical example of AI-assisted professional documentation.
-
----
-
-## 📊 GitHub Stats
-
-![Profile Details](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/0-profile-details.svg)
-![Languages](https://raw.githubusercontent.com/obott9/obott9/main/profile-summary-card-output/dark/1-repos-per-language.svg)
-
----
-
-*Last updated: January 2026*
+<p align="center">
+  <i>I believe in understanding the "why" behind the code — not just making it work, but making it right.</i>
+</p>
