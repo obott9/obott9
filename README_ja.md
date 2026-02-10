@@ -161,6 +161,26 @@ IMEIndicatorClockのWindows移植版。IME状態とカスタマイズ可能な�
 
 ---
 
+### [IME Settings Simulator](https://github.com/obott9/ime-simulator) (Web App)
+
+IMEIndicatorClockの設定をブラウザ上でプレビュー・カスタマイズできるフルスタックWebアプリケーションです。プリセットの保存・共有・いいね機能を備えています。
+
+**特徴:**
+
+- 🕐 時計・インジケータ設定のライブプレビュー
+- 💾 プリセット保存・共有・いいねシステム（GitHub OAuth認証）
+- 🌐 5言語対応（日本語・英語・韓国語・中国語繁体字・中国語簡体字）
+- ☁️ 3層アーキテクチャ（React → Express API → Supabase）
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [ライブデモ](https://obott9.github.io/ime-simulator/) | [リポジトリ](https://github.com/obott9/ime-simulator)
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com

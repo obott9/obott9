@@ -55,6 +55,20 @@
 
 ---
 
+### IME Settings Simulator (Web App)
+**Problem:** Users wanted to preview and customize IMEIndicatorClock settings before downloading, and share configurations with others.
+
+**Solution:** Built a full-stack web app with React frontend, Express API, and Supabase (PostgreSQL).
+
+**Results:**
+- ✅ **Live preview** of clock & indicator settings in browser
+- ✅ Preset save, share & like system with **GitHub OAuth**
+- ✅ **5 languages** supported
+
+🔗 [Live Demo](https://obott9.github.io/ime-simulator/) | [View Repository](https://github.com/obott9/ime-simulator)
+
+---
+
 ## 💼 Professional Impact (Selected)
 
 ### Enterprise Power Company — Payment System (2024-2025)
