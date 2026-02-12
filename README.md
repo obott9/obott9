@@ -5,7 +5,7 @@
 [日本語](README_ja.md)
 
 > 🔍 **Currently open to remote opportunities** (contract / full-time)  
-> 📝 Written English communication only — I deliver through clear documentation and code
+> 📝 Async-first communicator — I deliver through clear documentation and code
 
 ## TL;DR
 
@@ -127,8 +127,8 @@ Due to personal circumstances in Japan, I am **exclusively seeking remote work**
 
 | Preference | Detail |
 |------------|--------|
-| 📝 Communication | Written English only (Slack, email, GitHub) |
-| 🚫 No voice/video | I deliver through documentation and code |
+| 📝 Communication | Async-first: Slack, email, GitHub |
+| ✍️ Delivery style | Clear documentation, clean code, thorough reviews |
 | 🌐 Location | Remote worldwide |
 | 📋 Contract type | Contract or contract-to-hire |
 
@@ -136,11 +136,11 @@ Due to personal circumstances in Japan, I am **exclusively seeking remote work**
 
 ## 💰 Why Hire Me?
 
-I communicate through **written English only** — no voice calls. To prove I deliver quality work through text-based collaboration, I offer **competitive rates**.
+I specialize in **async-first collaboration** — delivering through clear documentation, well-structured PRs, and responsive communication.
 
-With the current **weak Japanese Yen**, you get:
-- ✅ **Senior-level expertise (35+ years)**
-- ✅ **At a fraction of typical US/EU rates**
+With **35+ years of experience** and the current exchange rate, you get:
+- ✅ **Senior-level expertise at competitive rates**
+- ✅ **Proven problem solver across platforms**
 
 ---
 
