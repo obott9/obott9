@@ -69,6 +69,20 @@
 
 ---
 
+### GitHub Download Counter (Web App)
+**Problem:** Developers and project maintainers need a quick way to visualize download statistics across all their GitHub Releases.
+
+**Solution:** Built a single-page app that fetches and aggregates download data from the GitHub REST API v3, with parallel async operations and rate limit monitoring.
+
+**Results:**
+- ✅ **Parallel API calls** with Promise.all for fetching N repositories simultaneously
+- ✅ **Rate limit visualization** — remaining requests displayed in real time
+- ✅ **Responsive design** with fade-in animations
+
+🔗 [Live Demo](https://obott9.github.io/github-download-counter/) | [View Repository](https://github.com/obott9/github-download-counter)
+
+---
+
 ## 💼 Professional Impact (Selected)
 
 ### Enterprise Power Company — Payment System (2024-2025)
