@@ -181,6 +181,23 @@ IMEIndicatorClockの設定をブラウザ上でプレビュー・カスタマイ
 
 ---
 
+### [GitHub Download Counter](https://github.com/obott9/github-download-counter) (Web App)
+
+GitHub Releasesのダウンロード統計を視覚化するシングルページアプリケーションです。GitHub REST API v3を使い、複数リポジトリのデータを並列取得します。
+
+**特徴:**
+
+- ⚡ Promise.allによるN個のリポジトリの並列API呼び出し
+- 📊 APIレート制限のリアルタイム表示
+- 🎨 フェードインアニメーション付きレスポンシブデザイン
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [ライブデモ](https://obott9.github.io/github-download-counter/) | [リポジトリ](https://github.com/obott9/github-download-counter)
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com
