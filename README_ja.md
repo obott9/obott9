@@ -41,6 +41,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+### デスクトップツール
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### プラットフォーム
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -207,6 +210,25 @@ GitHub Releasesのダウンロード統計を視覚化するシングルペー�
 
 ---
 
+### [File Tab Opener](https://github.com/obott9/file_tab_opener) (Cross-platform)
+
+フォルダグループをFinder/Explorerのタブとして一括オープンするクロスプラットフォームデスクトップユーティリティです。
+
+**特徴:**
+
+- 📂 フォルダグループを名前付きプリセットとして保存・一括オープン
+- 🌐 5言語対応（日本語・英語・韓国語・中国語繁体字・中国語簡体字）
+- 🧪 68のユニットテストで品質を担保
+- 🖥️ macOS（Finder）& Windows（Explorer）の両対応
+- 🔄 3段階のフォールバックアーキテクチャで高い互換性
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [リポジトリ](https://github.com/obott9/file_tab_opener)
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com
@@ -226,7 +248,7 @@ GitHub Releasesのダウンロード統計を視覚化するシングルペー�
 
 ## 🤖 このプロフィールについて
 
-このプロフィールの技術評価は、実際のコーディングセッションと問題解決のアプローチに基づいています。
+このプロフィールは、実際の開発作業をClaude AIが客観的に分析・評価した技術評価に基づいています。評価は実際のコーディングセッション、問題解決のアプローチ、技術的判断から生成されたもので、自己申告によるものではありません。これは、AI支援による専門的なドキュメント作成の実例でもあります。
 
 ---
 
