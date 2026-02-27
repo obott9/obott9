@@ -229,6 +229,25 @@ GitHub Releasesのダウンロード統計を視覚化するシングルペー�
 
 ---
 
+### [FileTabOpenerM](https://github.com/obott9/FileTabOpenerM) (macOS)
+
+File Tab Opener の macOS ネイティブ版。SwiftUI で再構築し、AX API + AppleScript のハイブリッドアプローチで Finder タブを確実に制御します。
+
+**特徴:**
+
+- 🖥️ SwiftUI ネイティブ UI（ダークモード、ドラッグ&ドロップ自動対応）
+- 🔧 AX API + AppleScript ハイブリッドでキーボード操作不要
+- 📐 モダンレイアウト（サイドバー + 詳細パネル）+ クラシックレイアウト
+- 🌐 5言語対応（英語・日本語・韓国語・繁体字中国語・簡体字中国語）
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_13+-000000?style=flat&logo=apple&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [リポジトリ](https://github.com/obott9/FileTabOpenerM)
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com

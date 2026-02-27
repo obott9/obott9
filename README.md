@@ -30,12 +30,15 @@ GitHub Releases download stats viewer with parallel API calls. [Live Demo](https
 ### [File Tab Opener](https://github.com/obott9/file_tab_opener) — Cross-platform
 Desktop utility that opens folder groups as tabs in a single Finder/Explorer window. Python/tkinter, 5-language support, 68 unit tests.
 
+### [FileTabOpenerM](https://github.com/obott9/FileTabOpenerM) — macOS
+Native SwiftUI version of File Tab Opener. AX API + AppleScript hybrid for reliable Finder tab control, modern sidebar layout.
+
 ---
 
 ## 📬 Contact
 
 📩 **Email:** obott9.dev@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/hideki-obote](https://www.linkedin.com/in/hideki-obote-1b33b43a7/)
+💼 **LinkedIn:** [linkedin.com/in/hideki-obote-1b33b43a7](https://www.linkedin.com/in/hideki-obote-1b33b43a7/)
 🔧 **Upwork:** [upwork.com/freelancers/~0146733eaa54bd44c8](https://www.upwork.com/freelancers/~0146733eaa54bd44c8)
 
 ---
