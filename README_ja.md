@@ -248,6 +248,26 @@ File Tab Opener の macOS ネイティブ版。SwiftUI で再構築し、AX API 
 
 ---
 
+### [FileTabOpenerW](https://github.com/obott9/FileTabOpenerW) (Windows)
+
+File Tab Opener の Windows ネイティブ版。純粋な C++/Win32 API で再構築し、UI Automation API で Explorer タブを確実に制御します。
+
+**特徴:**
+
+- 🖥️ C++17 / Win32 ネイティブ（外部フレームワーク不使用、高速起動）
+- 🔧 UI Automation API で Explorer タブを直接操作（キーボード操作不要）
+- 📐 コンパクトレイアウト + サイドバーレイアウト（macOS SwiftUI版から移植）
+- 🌙 Windows ダーク/ライトテーマ自動追従
+- 🌐 5言語対応（英語・日本語・韓国語・繁体字中国語・簡体字中国語）
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [リポジトリ](https://github.com/obott9/FileTabOpenerW)
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com
@@ -260,8 +280,9 @@ File Tab Opener の macOS ネイティブ版。SwiftUI で再構築し、AX API 
 
 私のプロジェクトが役に立ったら、サポートをご検討ください！
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/obott9)
 
 ---
 
@@ -278,4 +299,4 @@ File Tab Opener の macOS ネイティブ版。SwiftUI で再構築し、AX API 
 
 ---
 
-*最終更新: 2026年2月*
+*最終更新: 2026年3月*

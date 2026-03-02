@@ -7,7 +7,7 @@
 > 🔍 **Currently open to remote opportunities** (contract / full-time)
 > 📝 Async-first communicator — I deliver through clear documentation and code
 
-**35+ years** of software development | Cross-platform desktop apps (Swift / C#) | Proven track record of rescuing failing projects
+**35+ years** of software development | Cross-platform desktop apps (Swift / C# / C++) | Proven track record of rescuing failing projects
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/hideki-obote-1b33b43a7/) | 🌐 [**Portfolio**](https://obott9.github.io) | 💼 [**Resume (PDF)**](https://obott9.github.io/Hideki_Obote_Resume_EN.pdf)
 
@@ -33,6 +33,9 @@ Desktop utility that opens folder groups as tabs in a single Finder/Explorer win
 ### [FileTabOpenerM](https://github.com/obott9/FileTabOpenerM) — macOS
 Native SwiftUI version of File Tab Opener. AX API + AppleScript hybrid for reliable Finder tab control, modern sidebar layout.
 
+### [FileTabOpenerW](https://github.com/obott9/FileTabOpenerW) — Windows
+Native C++ Win32 version of File Tab Opener. UI Automation API for reliable Explorer tab control, dual layout (compact + sidebar), dark mode support, 5-language support.
+
 ---
 
 ## 📬 Contact
@@ -40,6 +43,16 @@ Native SwiftUI version of File Tab Opener. AX API + AppleScript hybrid for relia
 📩 **Email:** obott9.dev@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/hideki-obote-1b33b43a7](https://www.linkedin.com/in/hideki-obote-1b33b43a7/)
 🔧 **Upwork:** [upwork.com/freelancers/~0146733eaa54bd44c8](https://www.upwork.com/freelancers/~0146733eaa54bd44c8)
+
+---
+
+## 💖 Support
+
+If you find my projects useful, please consider supporting me!
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/obott9)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/obott9)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/obott9)
 
 ---
 
