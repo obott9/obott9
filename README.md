@@ -5,11 +5,20 @@
 [日本語](README_ja.md)
 
 > 🔍 **Currently open to remote opportunities** (contract / full-time)
-> 📝 Async-first communicator — I deliver through clear documentation and code
+> 📝 Async-first communicator — I deliver through clear documentation and code. Open to voice/video when needed.
 
 **35+ years** of software development | Cross-platform desktop apps (Swift / C# / C++) | Proven track record of rescuing failing projects
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/hideki-obote-1b33b43a7/) | 🌐 [**Portfolio**](https://obott9.github.io) | 💼 [**Resume (PDF)**](https://obott9.github.io/Hideki_Obote_Resume_EN.pdf)
+
+---
+
+## 🔧 What I Solve
+
+- Complex debugging that others gave up on
+- Failing projects that need rescue and stabilization
+- Cross-platform consistency (macOS ↔ Windows)
+- Legacy system modernization
 
 ---
 
@@ -56,9 +65,9 @@ If you find my projects useful, please consider supporting me!
 
 ---
 
-## 🤖 About This Profile
+## 🤖 Development
 
-This profile is based on an objective technical assessment by Claude AI, analyzing actual development work. The evaluation was generated from real coding sessions, problem-solving approaches, and technical decisions — not self-written claims. This serves as a practical example of AI-assisted professional documentation.
+Architecture design, multilingual localization, and documentation created with Claude AI.
 
 ---
 
