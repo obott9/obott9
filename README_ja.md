@@ -32,11 +32,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### Web
+### Web / Backend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Play Framework](https://img.shields.io/badge/Play_Framework-92D13D?style=for-the-badge&logo=scala&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -268,6 +270,74 @@ File Tab Opener の Windows ネイティブ版。純粋な C++/Win32 API で再�
 
 ---
 
+### [Play IME Preset API](https://github.com/obott9/play-ime-preset-api) (Backend — Java)
+
+IMEIndicatorClockのプリセット管理用REST API。Play Framework 3.0 + Java 21 + Ebean ORMでCRUD操作を提供。Supabase PostgreSQLに接続。
+
+**特徴:**
+
+- 🔗 9つのRESTエンドポイント（CRUD、いいね、共有、人気プリセット）
+- 🗃️ Ebean ORM によるシンプルなJava標準のDB操作
+- 🔒 環境変数ベースの設定管理
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Play](https://img.shields.io/badge/Play_3.0-92D13D?style=flat&logo=scala&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [リポジトリ](https://github.com/obott9/play-ime-preset-api)
+
+---
+
+### [Play IME Preset Dashboard](https://github.com/obott9/play-ime-preset-dashboard) (Backend — Scala)
+
+同じプリセット管理APIをScalaの関数型プログラミングパターンで再実装。Slick FRMによる型安全なクエリとPekko StreamsによるSSEリアクティブストリーミングを実装。
+
+**特徴:**
+
+- 🔄 Pekko Streams によるServer-Sent Events（SSE）ストリーミング
+- 🛡️ Option/Either による関数型エラーハンドリング（例外なし）
+- 🗃️ Slick FRM による型安全・コンポーザブルなクエリ
+
+![Scala](https://img.shields.io/badge/Scala_2.13-DC322F?style=flat&logo=scala&logoColor=white)
+![Play](https://img.shields.io/badge/Play_3.0-92D13D?style=flat&logo=scala&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
+
+🔗 [リポジトリ](https://github.com/obott9/play-ime-preset-dashboard)
+
+---
+
+## 🏗️ IME エコシステム構成
+
+同じデータベースに対して複数の実装 — 言語の多様性を実証:
+
+```mermaid
+graph TB
+    subgraph Frontend
+        SIM["IME Settings Simulator<br/><small>React + Vite</small>"]
+    end
+    subgraph "Backend (Java)"
+        API["play-ime-preset-api<br/><small>Play 3.0 + Java 21 + Ebean</small>"]
+    end
+    subgraph "Backend (Scala)"
+        DASH["play-ime-preset-dashboard<br/><small>Play 3.0 + Scala + Slick + Pekko Streams</small>"]
+    end
+    subgraph Database
+        DB[("Supabase PostgreSQL")]
+    end
+    subgraph "Desktop Apps"
+        MAC["IMEIndicatorClock<br/><small>Swift / SwiftUI</small>"]
+        WIN["IMEIndicatorClockW<br/><small>C# / .NET 8</small>"]
+    end
+    SIM --> API
+    SIM --> DASH
+    API --> DB
+    DASH --> DB
+    MAC -.->|"プリセット読込"| SIM
+    WIN -.->|"プリセット読込"| SIM
+```
+
+---
+
 ## 📫 連絡先
 
 📧 **メール**: obott9.dev [at] gmail [dot] com
@@ -299,4 +369,4 @@ File Tab Opener の Windows ネイティブ版。純粋な C++/Win32 API で再�
 
 ---
 
-*最終更新: 2026年3月*
+*最終更新: 2026年4月*

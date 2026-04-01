@@ -45,6 +45,44 @@ Native SwiftUI version of File Tab Opener. AX API + AppleScript hybrid for relia
 ### [FileTabOpenerW](https://github.com/obott9/FileTabOpenerW) — Windows
 Native C++ Win32 version of File Tab Opener. UI Automation API for reliable Explorer tab control, dual layout (compact + sidebar), dark mode support, 5-language support.
 
+### [Play IME Preset API](https://github.com/obott9/play-ime-preset-api) — Backend
+REST API for IME preset management. Play Framework 3.0 + Java 21 + Ebean ORM + Supabase PostgreSQL.
+
+### [Play IME Preset Dashboard](https://github.com/obott9/play-ime-preset-dashboard) — Backend
+Reactive REST API with SSE streaming. Play Framework 3.0 + Scala 2.13 + Slick + Pekko Streams. Same API, different paradigm.
+
+---
+
+## 🏗️ IME Ecosystem Architecture
+
+Same database, multiple implementations — demonstrating language versatility:
+
+```mermaid
+graph TB
+    subgraph Frontend
+        SIM["IME Settings Simulator<br/><small>React + Vite</small>"]
+    end
+    subgraph "Backend (Java)"
+        API["play-ime-preset-api<br/><small>Play 3.0 + Java 21 + Ebean</small>"]
+    end
+    subgraph "Backend (Scala)"
+        DASH["play-ime-preset-dashboard<br/><small>Play 3.0 + Scala + Slick + Pekko Streams</small>"]
+    end
+    subgraph Database
+        DB[("Supabase PostgreSQL")]
+    end
+    subgraph "Desktop Apps"
+        MAC["IMEIndicatorClock<br/><small>Swift / SwiftUI</small>"]
+        WIN["IMEIndicatorClockW<br/><small>C# / .NET 8</small>"]
+    end
+    SIM --> API
+    SIM --> DASH
+    API --> DB
+    DASH --> DB
+    MAC -.->|"imports presets"| SIM
+    WIN -.->|"imports presets"| SIM
+```
+
 ---
 
 ## 📬 Contact
