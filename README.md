@@ -49,7 +49,7 @@ Native C++ Win32 version of File Tab Opener. UI Automation API for reliable Expl
 REST API for IME preset management. Play Framework 3.0 + Java 21 + Ebean ORM + Supabase PostgreSQL.
 
 ### [Play IME Preset Dashboard](https://github.com/obott9/play-ime-preset-dashboard) — Backend
-Reactive REST API with SSE streaming. Play Framework 3.0 + Scala 2.13 + Slick + Pekko Streams. Same API, different paradigm.
+Reactive REST API with SSE streaming. Play Framework 3.0 + Scala 3 + Slick + Pekko Streams. Same API, different paradigm.
 
 ---
 
